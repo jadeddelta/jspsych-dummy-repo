@@ -6,7 +6,8 @@
     "packages/*"
   ],
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "build": "npm run build -ws"
   },
   "dependencies": {
     "gulp": "^5.0.0",
