@@ -145,3 +145,6 @@ vite.config.ts.timestamp-*
 
 # Turbo files   
 .turbo/
+
+# vscode
+.vscode/
