@@ -1,8 +1,8 @@
 ---
-title: 'List of Plugins'
+title: 'List of Extensions'
+sidebar:
+    order: 0
 ---
-# List of Plugins
-
 These are the extensions that are included in the jsPsych release. 
 
 Additional extensions may be available in the [community contributions repository](https://github.com/jspsych/jspsych-contrib). 

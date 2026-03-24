@@ -1,5 +1,7 @@
 ---
 title: 'List of Plugins'
+sidebar:
+    order: 0
 ---
 # List of Plugins
 
