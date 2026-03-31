@@ -1,7 +1,6 @@
 ---
 title: 'Contributing to jsPsych'
 ---
-# Contributing to jsPsych
 
 We welcome contributions of all kinds, including changes to the core codebase, the development of new plugins and extensions, and improvements to the documentation. 
 

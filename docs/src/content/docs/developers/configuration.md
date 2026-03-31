@@ -1,7 +1,6 @@
 ---
 title: 'Configuring the jsPsych development environment'
 ---
-# Configuring the jsPsych development environment
 
 ## Setup
 

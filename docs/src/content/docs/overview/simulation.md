@@ -1,7 +1,6 @@
 ---
 title: 'Simulation Modes'
 ---
-# Simulation Modes
 *Added in 7.1*
 
 Simulation mode allows you run your experiment automatically and generate artificial data. 

@@ -1,7 +1,6 @@
 ---
 title: 'Experiment-wide settings'
 ---
-# Experiment-wide settings
 
 There are several options that can be set when calling `initJsPsych()` to initialize the jsPsych experiment.
 

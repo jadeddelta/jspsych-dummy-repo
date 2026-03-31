@@ -1,7 +1,6 @@
 ---
 title: 'jsPsych.pluginAPI'
 ---
-# jsPsych.pluginAPI
 
 The pluginAPI module contains functions that are useful when developing plugins. All of the functions are accessible through the `pluginAPI` object. In this documentation we've divided them up based on different kinds of functionality.
 

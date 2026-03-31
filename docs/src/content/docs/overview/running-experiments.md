@@ -1,7 +1,6 @@
 ---
 title: 'Running Experiments'
 ---
-# Running Experiments
 
 You can run your jsPsych experiment:
 

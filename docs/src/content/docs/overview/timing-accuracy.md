@@ -1,7 +1,6 @@
 ---
 title: 'Timing accuracy'
 ---
-# Timing accuracy
 
 Wondering if jsPsych can be used for research that depends on accurate display times or response time measurement? For most purposes, the answer is yes. 
 

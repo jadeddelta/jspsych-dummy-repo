@@ -3,7 +3,6 @@ title: 'List of Plugins'
 sidebar:
     order: 0
 ---
-# List of Plugins
 
 These are the plugins that are included in the jsPsych release. 
 

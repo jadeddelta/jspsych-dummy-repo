@@ -1,7 +1,6 @@
 ---
 title: 'jsPsych.utils'
 ---
-# jsPsych.utils
 
 The jsPsych.utils module contains utility functions that might turn out useful at one place or the other.
 

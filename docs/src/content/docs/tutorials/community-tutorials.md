@@ -1,7 +1,6 @@
 ---
 title: 'Community Tutorials'
 ---
-# Community Tutorials
 
 If you're interested in learning more about jsPsych, prefer video tutorials, or would like to just see other perspectives on how to use the codebase, we have some community resources that can assist you. If you have an idea for a tutorial to add, if you want to make your own, or if you have found a particularly helpful resource while online, be sure to tell us through our [issues board](https://github.com/jspsych/jsPsych/issues) so we may potentially feature it here!
 

@@ -1,7 +1,6 @@
 ---
 title: 'Summary of Tutorial Content'
 ---
-# Summary of Tutorial Content
 
 This tutorial will work through the creation of a simple response time task. 
 The task is to press one key for a blue colored circle and another key for an orange colored circle. 

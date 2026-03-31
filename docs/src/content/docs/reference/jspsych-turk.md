@@ -1,7 +1,6 @@
 ---
 title: 'jsPsych.turk'
 ---
-# jsPsych.turk
 
 The jsPsych.turk module contains functions for interacting with Mechanical Turk. 
 

@@ -1,7 +1,6 @@
 ---
 title: 'Migrating an experiment to v8.x'
 ---
-# Migrating an experiment to v8.x
 
 Version 8.x of jsPsych focused on a complete rewrite of the core library to enable new features and make it easier to maintain.
 Most of the changes in version 8.x are behind the scenes.

@@ -1,7 +1,6 @@
 ---
 title: 'jsPsych.randomization'
 ---
-# jsPsych.randomization
 
 The jsPsych.randomization module contains methods that are useful for generating random lists of trial variables.
 

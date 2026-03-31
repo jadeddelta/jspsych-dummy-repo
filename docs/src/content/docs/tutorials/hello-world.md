@@ -1,7 +1,6 @@
 ---
 title: 'jsPsych "Hello world" experiment'
 ---
-# jsPsych "Hello world" experiment
 
 In the long tradition of **"Hello world!"** examples, this tutorial creates an experiment that outputs the phrase "Hello world!" to the browser. Though useless as an actual experiment, the process is helpful for learning the basics of using the jsPsych library.
 

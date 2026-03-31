@@ -1,7 +1,6 @@
 ---
 title: 'Exclude Participants Based on Browser Features'
 ---
-# Exclude Participants Based on Browser Features
 *Changed in 7.1*
 
 Online participants will use many different kinds of browsers. 

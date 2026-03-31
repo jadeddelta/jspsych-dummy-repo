@@ -1,7 +1,6 @@
 ---
 title: 'webgazer'
 ---
-# webgazer
 
 This extension supports eye tracking through the [WebGazer](https://webgazer.cs.brown.edu/) library. For a narrative description of how to use this extension see the [eye tracking overview](../overview/eye-tracking).
 

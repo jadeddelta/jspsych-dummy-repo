@@ -1,7 +1,6 @@
 ---
 title: 'Extension development'
 ---
-# Extension development
 
 ## Requirements for an extension
 

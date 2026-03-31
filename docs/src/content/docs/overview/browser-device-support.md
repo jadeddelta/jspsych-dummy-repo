@@ -1,7 +1,6 @@
 ---
 title: 'Browser and Device Support'
 ---
-# Browser and Device Support
 
 ## Desktop and Laptop Browsers
 

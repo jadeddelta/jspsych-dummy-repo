@@ -1,7 +1,6 @@
 ---
 title: 'Plugins'
 ---
-# Plugins
 
 In jsPsych, plugins define the kinds of trials or events that should occur during the experiment. 
 Some plugins define very general events, like [displaying a set of instructions pages](../plugins/instructions), [displaying an image and recording a keyboard response](../plugins/image-keyboard-response), or [playing a sound file and recording a button response](../plugins/audio-button-response).

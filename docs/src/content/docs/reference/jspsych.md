@@ -1,7 +1,6 @@
 ---
 title: 'jsPsych'
 ---
-# jsPsych
 
 ---
 ## initJsPsych

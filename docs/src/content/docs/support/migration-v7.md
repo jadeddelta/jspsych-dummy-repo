@@ -1,7 +1,6 @@
 ---
 title: 'Migrating an experiment to v7.x'
 ---
-# Migrating an experiment to v7.x
 
 The release of version 7.0 changes a number of core components of jsPsych. 
 We made these changes to improve jsPsych's compatibility with modern JavaScript tools like package managers and bundlers and to improve the developer experience for people contributing to jsPsych's codebase. 

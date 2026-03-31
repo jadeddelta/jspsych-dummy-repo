@@ -1,0 +1,26 @@
+---
+import { Code } from 'astro:components';
+import { Tabs, TabItem, Aside } from '@astrojs/starlight/components';
+
+interface Props {
+  title: string;
+  codeText: string;
+  demoLink: string;
+}
+
+const { title, codeText, demoLink } = Astro.props;
+---
+
+<Aside type="tip" title={title}>
+  <Tabs>
+    <TabItem label="Code">
+      <Code code={codeText} lang="js" />
+    </TabItem>
+    <TabItem label="Demo">
+      <div style="text-align:center;">
+        <iframe src={demoLink} width="90%" height="500px" frameborder="0"></iframe>
+      </div>
+      <a target="_blank" rel="noopener noreferrer" href={demoLink}>Open demo in new tab</a>
+    </TabItem>
+  </Tabs>
+</Aside>

@@ -1,7 +1,6 @@
 ---
 title: 'Event-related callback functions'
 ---
-# Event-related callback functions
 
 jsPsych offers the ability to call arbitrary functions in response to certain events occurring, like the end of a trial or when new data is saved. This page summarizes the different opportunities for callback functions and how to specify them.
 

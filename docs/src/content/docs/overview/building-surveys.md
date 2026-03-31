@@ -1,7 +1,6 @@
 ---
 title: 'Building Surveys in jsPsych'
 ---
-# Building Surveys in jsPsych
 
 ## Choosing which jsPsych survey plugin to use
 

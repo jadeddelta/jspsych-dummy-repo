@@ -1,7 +1,6 @@
 ---
 title: 'Plugin development'
 ---
-# Plugin development
 
 ## Requirements for a plugin
 

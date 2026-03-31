@@ -1,7 +1,6 @@
 ---
 title: 'webgazer-calibrate'
 ---
-# webgazer-calibrate
 
 Current version: 2.1.0. [See version history](https://github.com/jspsych/jsPsych/blob/main/packages/plugin-webgazer-calibrate/CHANGELOG).
 

@@ -1,7 +1,6 @@
 ---
 title: 'Subscribe to our newsletter'
 ---
-# Subscribe to our newsletter
 
 Subscribe to our newsletter to stay up to date with the latest news and updates from the jsPsych team.
 We send out newsletters about once a month.

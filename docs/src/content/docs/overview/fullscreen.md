@@ -1,7 +1,6 @@
 ---
 title: 'Fullscreen Experiments'
 ---
-# Fullscreen Experiments
 
 You can run your experiment in fullscreen mode by using the jspsych-fullscreen plugin.
 
